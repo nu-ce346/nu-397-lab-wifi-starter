@@ -1,5 +1,5 @@
-#include <arduino.h> // Required for all code
-#include <wifi.h> // Required for all wifi code
+#include <Arduino.h> // Required for all code
+#include <WiFi.h> // Required for all wifi code
 #include <esp_wifi.h>
 #include <esp_wifi_types.h>
 
